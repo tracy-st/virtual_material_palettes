@@ -1,6 +1,6 @@
 ##Adapted from https://github.com/YaleDHLab/lab-workshops/tree/master/color-analysis
 
-from tensorflow.keras.utils load_img, img_to_array, array_to_img
+from tensorflow.keras.utils import load_img, img_to_array, array_to_img
 from matplotlib.colors import rgb_to_hsv, hsv_to_rgb
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
