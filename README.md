@@ -6,7 +6,7 @@ This notebook and material was created for [Virtual/Material: Color/Pigment](htt
 
 This notebook introduces participants to different methods of color quantization, which is the process of reducing the number of distinct colors in an image. The goal was to demonstrate the variability in how colors are computed and displayed and to prompt discussion about how digital colors relate to material colors. It was designed for graduate students in art and media history and does not assume any previous technical experience.
 
-## Sources
+## Acknowledgments
 
 The code in this tutorial was last updated in 2021 and is adapted from:
 - [Douglas Duhaime "Color Analysis" workshop notebook for the Yale DH Lab](https://github.com/YaleDHLab/lab-workshops/tree/master/color-analysis)
